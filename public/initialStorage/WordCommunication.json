@@ -1,7 +1,5 @@
 [
-  { "Author": "Admin", "id": 0, "message": "Привет", "completed": false},
+  { "Author": "Admin", "id": 0, "message": "Привет всем", "completed": false},
   { "Author": "Maria", "id": 1, "message": "Привет", "completed": false},
-  { "Author": "Admin", "id": 2, "message": "Привет", "completed": false},
-  { "Author": "Maria", "id": 3, "message": "Привет", "completed": false},
-  { "Author": "Admin", "id": 4, "message": "Привет", "completed": false}
+  { "Author": "Andrey", "id": 2, "message": "Привет!!!", "completed": false}
 ]

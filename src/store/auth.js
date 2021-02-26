@@ -33,7 +33,6 @@ class Auth{
             }))
             this.useDataDisband = 0
         }
-        console.log(this.useDataDisband)
     }
     getUserData = (userData) => {
         userData.push(...this.userData)
